@@ -2,8 +2,8 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/zacharyglassman/eagle/beatnote_extra/brd.brd
 
-Start at      : 14:17:05 (3/21/17)
-End at        : 14:17:15 (3/21/17)
+Start at      : 14:23:39 (3/21/17)
+End at        : 14:23:45 (3/21/17)
 Elapsed time  : 00:00:05
 
 Signals       :    15   RoutingGrid: 9 mil  Layers: 1
